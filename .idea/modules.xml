@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BandsandDOS.iml" filepath="$PROJECT_DIR$/.idea/BandsandDOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bands_DOS_pymatgen.iml" filepath="$PROJECT_DIR$/.idea/Bands_DOS_pymatgen.iml" />
     </modules>
   </component>
 </project>
